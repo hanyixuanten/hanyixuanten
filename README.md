@@ -1,4 +1,6 @@
-[![hanyixuanten's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanyixuanten&show_icons=true&theme=ambient_gradient)](https://github.com/hanyixuanten)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
 
 ## Contact Me With:
 
