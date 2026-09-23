@@ -1,4 +1,4 @@
-**[My personal website && blog](https://www.vblg.top)**
+**[My personal website && blog](https://blog.vblg.top)**
 
 ---
 
