@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yixuan Han&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 435, Total PRs: 10, Total Issues: 14, Contributed to (last year): 17</desc>
+        <desc id="descId">Total Stars Earned: 3, Total Commits  (last year) : 467, Total PRs: 10, Total Issues: 14, Contributed to (last year): 17</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 202.36627954858415;
+        stroke-dashoffset: 201.30162586167842;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >435</text>
+      >467</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
